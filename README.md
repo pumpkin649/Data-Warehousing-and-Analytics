@@ -61,7 +61,7 @@ List of Visualizations for each KPI:
 
 Picture of BI Application Wireframe design/final Dashboard:
 
-![Alt text](https://drive.google.com/uc?export=view&id=1Nh2IsYjkGKBUzEnQcchjlC11CmSbC846)
+![Alt text](https://drive.google.com/uc?export=view&id=1WHu4E29eMhuKbBjbulEJQ8xiPLwBxeqX)
 
 ### Deployment
 
