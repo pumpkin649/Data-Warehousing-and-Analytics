@@ -1,5 +1,4 @@
 # NYC Dog Park Optimization Data Warehousing and Analytics
-- Authors: Sao Fong Leong, Jiehui Chen, Geyao Shuai and Rongnan He
 - Date created: 05/05/2022
 - Class: CIS 9440
 
